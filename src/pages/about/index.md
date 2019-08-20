@@ -1,6 +1,6 @@
 ---
-templateKey: 'acerca-de'
-path: /acerca-de-mi
+templateKey: 'about-page'
+path: /about
 title: Acerca de mí
 ---
 ### Acerca de mí
