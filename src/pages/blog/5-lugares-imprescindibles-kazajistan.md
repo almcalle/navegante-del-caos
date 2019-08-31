@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: '5 lugares imprescindibles para visitar en Kazajistán'
 date: 2017-08-18T15:04:10.000Z
 featuredpost: false
+featuredimage:
 description:
 tags:
   - kazajistan
