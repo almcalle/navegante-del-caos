@@ -4,7 +4,7 @@ title: Bodas en Polonia
 date: 2019-08-20T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
-description:
+description: Bodas en Polonia
 tags:
   - viajes
   - Polonia
