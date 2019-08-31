@@ -1,5 +1,5 @@
 ---
 templateKey: index-page
 title: Navegante Del Caos
-image: /img/home-jumbotron.jpg
+image: /img/portada-web-navegante-del-caos.png
 heading: Nunca dejes de viajar y aprender allá donde vayas
