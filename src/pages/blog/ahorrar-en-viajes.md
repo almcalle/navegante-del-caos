@@ -26,6 +26,9 @@ Yo suelo usar Revolut es una tarjeta que te envían a casa por 6€ y que funcio
 Te permite sacar unos 200€ en cajeros de todo el mundo de forma gratuita y después a un 2% de comisión.
 La he usado en paises como Polonia, Kazajistán, Honduras y su funcionamiento ha sido muy bueno, y casi siempre dándome mejor cambio de euros que en cualquier casa de cambio.
 
+Con este enlace podrás conseguir 10€ de regalo en Revolut para que te envien la tarjeta y además te sobre algo para gastar.
+
+ revolut.com/referral/alfonsqzm!G10D21
 
 
 Evitar Cajeros Euronet
@@ -48,5 +51,6 @@ Yo para vuelos suelo usar SkyScanner, un completo buscador en el que se puede bu
 
 Para alojamiento suelo usar Booking, o AirBnB, filtrando por precio y puntuación. Y recuerda que mientras antes reserves más fácil va a ser encontrar buenas ofertas.
 
+Esto es todo por ahora, ¿Tú como ahorras en viajes? 
 
-Esto es todo por ahora, si te interesa este tema te agradecería que escribieras un comentario o alguna mejora al artículo.
+Comparte tu secretillos en comentarios y los siguientes que lleguen a la página lo agradecerán!
