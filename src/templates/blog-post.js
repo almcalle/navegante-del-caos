@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
+import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
@@ -42,6 +43,8 @@ export const BlogPostTemplate = ({
           </div>
         </div>
       </div>
+      <CommentCount config={disqusConfig} placeholder={'Número de comentarios'} />
+      <Disqus config={{}} />
     </section>
   )
 }
