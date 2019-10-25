@@ -14,7 +14,7 @@ Tras recorrer Kazajistán durante casi un mes y recorrer el país casi completam
 
 Estos son los lugares que se deben visitar en Kazajistán
 
-* Astaná: Ciudad anteriormente llamada Akmola y capital del país desde 1998, fecha en la que cambió de nombre. Fue construida gracias al dinero del petróleo. Muchos grandes arquitectos han dejado sus huella en la ciudad entre ellos Norman Foster. Gran parte de esta construcción fue debida al engalanamiento que sufrió la ciudad para la Expo de 2017 y de la que todo el país hablaba.
+* Nur-Sultan: Ciudad anteriormente llamada Astaná hasta 2018 y capital del país desde 1998. Fue construida gracias al dinero del petróleo. Muchos grandes arquitectos han dejado sus huella en la ciudad entre ellos Norman Foster. Gran parte de esta construcción fue debida al engalanamiento que sufrió la ciudad para la Expo de 2017 y de la que todo el país hablaba.
 * Almaty: La anterior capital de Kazajistán antes de que se cambiara a Astaná y la ciudad más poblada de - Kazajistán con un 9% de toda la población de Kazajistán. Almaty es la forma adjetivada de manzana y se cree que debido a la gran variedad genética de manzanas silvestres es allí donde se originó. Es una ciudad rodeada de montañas y eso hace que a su alrededor se hallen algunos de los lugares más bonitos de Kazajistán y que sea muy frio en invierno a pesar de estar tan al sur.
   Unos de esos lugares cerca de Almaty es Medeo. Se trata de la pista de bandy (un deporte parecido al hockey sobre hielo) y patinaje sobre hielo al aire libre más alta del mundo y un lugar de visita obligada si visitáis la ciudad fuera de verano (En verano está cerrado y no hay nada).
   También se encuentra allí la estación de esquí de
