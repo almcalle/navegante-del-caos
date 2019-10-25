@@ -17,6 +17,11 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content
 
+  let disqusConfig = {
+    url: `${config.siteUrl+location.pathname}`,
+    identifier: post.id,
+    title: post.title,
+  }
   return (
     <section className="section">
       {helmet || ''}
@@ -43,8 +48,8 @@ export const BlogPostTemplate = ({
           </div>
         </div>
       </div>
-      <CommentCount config={{}} placeholder={'Número de comentarios'} />
-      <Disqus config={{}} />
+      <CommentCount config={disqusConfig} placeholder={'Número de comentarios'} />
+      <Disqus config={disqusConfig} />
     </section>
   )
 }
