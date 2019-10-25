@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Como ahorrar mientras viajas
 date: 2019-09-22T15:04:10.000Z
-featuredpost: false
+featuredpost: true
 isPublished: true
 featuredimage: /img/portada-web-navegante-del-caos.png
 description: Como ahorrar mientras viajas
