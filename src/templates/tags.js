@@ -6,21 +6,21 @@ import Layout from '../components/Layout'
 class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
-    const postLinks = posts.map(post =>  post.frontmatter.isPublished && (
+    const postLinks = posts.map(post =>  post.node.frontmatter.isPublished && (
       <li key={post.node.fields.slug}>
         <Link to={post.node.fields.slug}>
         <div className="is-parent column is-6" key={post.id}>
               <article
                 className={`blog-list-item tile is-child box notification ${
-                  post.frontmatter.featuredpost ? "is-featured" : ""
+                  post.node.frontmatter.featuredpost ? "is-featured" : ""
                 }`}
               >
                 <header>
-                  {post.frontmatter.featuredimage ? (
+                  {post.node.frontmatter.featuredimage ? (
                     <div className="featured-thumbnail">
                       <PreviewCompatibleImage
                         imageInfo={{
-                          image: post.frontmatter.featuredimage,
+                          image: post.node.frontmatter.featuredimage,
                           alt: `featured image thumbnail for post ${post.title}`
                         }}
                       />
@@ -31,11 +31,11 @@ class TagRoute extends React.Component {
                       className="title has-text-primary is-size-4"
                       to={post.fields.slug}
                     >
-                      {post.frontmatter.title}
+                      {post.node.frontmatter.title}
                     </Link>
                     <span> &bull; </span>
                     <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
+                      {post.node.frontmatter.date}
                     </span>
                   </p>
                 </header>
