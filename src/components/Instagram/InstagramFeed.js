@@ -72,11 +72,26 @@ export default class InstagramFeed extends Component {
     </div>
   )
 
+  /**
+ * Shuffles array in place.
+ * @param {Array} a items An array containing the items.
+ */
+function shuffle(a) {
+  var j, x, i;
+  for (i = a.length - 1; i > 0; i--) {
+      j = Math.floor(Math.random() * (i + 1));
+      x = a[i];
+      a[i] = a[j];
+      a[j] = x;
+  }
+  return a;
+}
+
   render() {
     if (!this.state.posts.length) {
       return this.renderLoadingItems()
     }
-    const shufflePosts = this.state.posts.sort(function (a, b) { return 0.5 — Math.random() })
+    const shufflePosts = shuffle(this.state.posts);
     return (
       <div className="InstagramFeed">
         {shufflePosts.slice(0, this.props.count).map(post => (
