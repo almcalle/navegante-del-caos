@@ -29,7 +29,7 @@ class TagRoute extends React.Component {
                   <p className="post-meta">
                     <Link
                       className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
+                      to={post.node.fields.slug}
                     >
                       {post.node.frontmatter.title}
                     </Link>
@@ -43,7 +43,7 @@ class TagRoute extends React.Component {
                   {post.excerpt}
                   <br />
                   <br />
-                  <Link className="button" to={post.fields.slug}>
+                  <Link className="button" to={post.node.fields.slug}>
                     Seguir Leyendo →
                   </Link>
                 </p>
