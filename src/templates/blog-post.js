@@ -18,9 +18,9 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content
 
   let disqusConfig = {
-    url: `${config.siteUrl+location.pathname}`,
-    identifier: post.id,
-    title: post.title,
+    url: title,
+    identifier: title,
+    title: title,
   }
   return (
     <section className="section">
