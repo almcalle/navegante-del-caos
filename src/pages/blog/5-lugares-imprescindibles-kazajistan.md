@@ -23,3 +23,4 @@ Estos son los lugares que se deben visitar en Kazajistán
   Kaindy: Un lago espectacular que sorprende por su precioso color azul turquesa y los troncos de árboles muertos saliendo como estacas directas al cielo.
 * Turkestan: Capital espiritual del país y uno de los mayores centros de peregrinación de la región después de La Meca. Aquí se encuentra el mausoleo de , un santo de la religión musulmana
 
+![](/img/Turkestan.jpg)
