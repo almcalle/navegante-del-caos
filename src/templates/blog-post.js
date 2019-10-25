@@ -18,7 +18,7 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   let disqusConfig = {
-    url: title,
+    url: "https://navegantedelcaos.netlify.com/blog/"+title,
     identifier: title,
     title: title
   };
