@@ -43,7 +43,7 @@ export const BlogPostTemplate = ({
           </div>
         </div>
       </div>
-      <CommentCount config={disqusConfig} placeholder={'Número de comentarios'} />
+      <CommentCount config={{}} placeholder={'Número de comentarios'} />
       <Disqus config={{}} />
     </section>
   )
