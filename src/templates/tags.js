@@ -6,7 +6,7 @@ import Layout from '../components/Layout'
 class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
-    const postLinks = posts.map(post => (
+    const postLinks = posts.map(post =>  post.frontmatter.isPublished && (
       <li key={post.node.fields.slug}>
         <Link to={post.node.fields.slug}>
         <div className="is-parent column is-6" key={post.id}>
@@ -105,6 +105,10 @@ export const tagPageQuery = graphql`
           }
           frontmatter {
             title
+            featuredimage
+            featuredpost
+            date
+            isPublished
           }
         }
       }
