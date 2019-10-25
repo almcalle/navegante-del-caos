@@ -105,10 +105,16 @@ export const tagPageQuery = graphql`
           }
           frontmatter {
             title
-            featuredimage
             featuredpost
             date
             isPublished
+            featuredimage {
+              childImageSharp {
+                fluid(maxWidth: 120, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
