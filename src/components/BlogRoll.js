@@ -11,7 +11,7 @@ class BlogRoll extends React.Component {
     return (
       <div className="columns is-multiline">
         {posts &&
-          posts.map(({ node: post }) => post.isPublished && (
+          posts.map(({ node: post }) => post.frontmatter.isPublished && (
             <div className="is-parent column is-6" key={post.id}>
               <article
                 className={`blog-list-item tile is-child box notification ${
