@@ -18,7 +18,7 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   let disqusConfig = {
-    url: "https://navegantedelcaos.netlify.com/blog/"+title,
+    url: "https://navegantedelcaos.netlify.com/blog/" + title,
     identifier: title,
     title: title
   };
@@ -45,10 +45,12 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
-            <CommentCount
-              config={disqusConfig}
-              placeholder={"Número de comentarios"}
-            />
+            {
+              // <CommentCount
+              //   config={disqusConfig}
+              //   placeholder={"Número de comentarios"}
+              // />
+            }
             <Disqus config={disqusConfig} />
           </div>
         </div>
