@@ -76,9 +76,10 @@ export default class InstagramFeed extends Component {
     if (!this.state.posts.length) {
       return this.renderLoadingItems()
     }
+    const shufflePosts = this.state.posts.sort(function (a, b) { return 0.5 — Math.random() })
     return (
       <div className="InstagramFeed">
-        {this.state.posts.slice(0, this.props.count).map(post => (
+        {shufflePosts.slice(0, this.props.count).map(post => (
           <Post
             key={post.code}
             src={post.display_src}
