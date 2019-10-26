@@ -57,7 +57,7 @@ class TagRoute extends React.Component {
     const totalCount = this.props.data.allMarkdownRemark.totalCount
     const tagHeader = `${totalCount} post${
       totalCount === 1 ? '' : 's'
-    } etiquetadas con “${tag}”`
+    } etiquetados con “${tag}”`
 
     return (
       <Layout>
