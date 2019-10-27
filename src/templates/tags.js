@@ -102,6 +102,7 @@ export const tagPageQuery = graphql`
           fields {
             slug
           }
+          excerpt(pruneLength: 400)
           frontmatter {
             title
             featuredpost
