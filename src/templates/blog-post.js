@@ -33,7 +33,7 @@ export const BlogPostTemplate = ({
               <div
                 className="full-width-image-container margin-top-0"
                 style={{
-                  backgroundImage: `url('/img/portada-web-navegante-del-caos.png')`
+                  backgroundImage: `url(${featuredimage})`
                 }}
               >
                 <h1
