@@ -28,9 +28,31 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
+            {post.frontmatter.featuredimage ? (
+              <div
+                className="full-width-image-container margin-top-0"
+                style={{
+                  backgroundImage: `url('/img/portada-web-navegante-del-caos.png')`
+                }}
+              >
+                <h1
+                  className="has-text-weight-bold is-size-1"
+                  style={{
+                    boxShadow: "0.5rem 0 0 #2a4382, -0.5rem 0 0 #2a4382",
+                    backgroundColor: "#2a4382",
+                    color: "white",
+                    padding: "1rem"
+                  }}
+                >
+                  {title}
+                </h1>
+              </div>
+            ) : (
+              <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+                {title}
+              </h1>
+            )}
+
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -110,6 +132,13 @@ export const pageQuery = graphql`
         title
         description
         tags
+        featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 120, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

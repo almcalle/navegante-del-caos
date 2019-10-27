@@ -7,8 +7,7 @@ description: Bodas en Polonia
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
-  - viajes
-  - Polonia
+  - NoTAG
 ---
 <!-- ![flavor wheel](/img/flavor_wheel.jpg) -->
 

@@ -7,8 +7,7 @@ isPublished: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 description: Poznan
 tags:
-  - Polonia
-  - viajes
+  - NoTAG
 ---
 Poznan
 
