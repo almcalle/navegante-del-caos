@@ -106,7 +106,7 @@ export const tagPageQuery = graphql`
           frontmatter {
             title
             featuredpost
-            date
+            date(formatString: "DD/MM/YYYY")
             isPublished
             featuredimage {
               childImageSharp {

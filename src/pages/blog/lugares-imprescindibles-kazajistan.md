@@ -7,7 +7,7 @@ description: 4 lugares imprescindibles para visitar en Kazajistán
 featuredpost: false
 featuredimage: /img/Astana.jpg
 tags:
-  - kazajistan
+  - Kazajistán
   - viajes
 ---
 Tras recorrer Kazajistán durante casi un mes y recorrer el país casi completamente vimos los lugares más bonitos de Kazajistán. Esta es una lista personal con los lugares imprescindibles para visitar en Kazajistán. Algunos son simplemente por su belleza y otros por la historia que contienen.
