@@ -85,7 +85,7 @@ export default () => (
                 title
                 isPublished
                 templateKey
-                date(formatString: "MMMM DD, YYYY")
+                date(formatString: "DD/MM/YYYY")
                 featuredpost
                 featuredimage {
                   childImageSharp {
