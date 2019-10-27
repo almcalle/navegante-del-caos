@@ -12,7 +12,7 @@ tags:
 ---
 
 
-`Una maravilla creada por Dios, así fue descrita la ciudad de Vardzia en el siglo XVI por un historiador persa`
+Una maravilla creada por Dios, así fue descrita la ciudad de Vardzia en el siglo XVI por un historiador persa
 
 ![Vardzia](/img/Vardzia.jpg "Vardzia")
 
