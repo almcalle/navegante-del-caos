@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 4 lugares imprescindibles para visitar en Kazajistán
 date: 2017-08-18T15:04:10.000Z
 isPublished: true
-description: 4 lugares imprescindibles para visitar en Kazajistán
+description: Lugares imprescindibles para visitar en Kazajistán
 featuredpost: false
 featuredimage: /img/Astana.jpg
 tags:
