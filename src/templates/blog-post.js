@@ -13,6 +13,7 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
+  featuredimage,
   helmet
 }) => {
   const PostContent = contentComponent || Content;
@@ -28,7 +29,7 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            {post.frontmatter.featuredimage ? (
+            {featuredimage ? (
               <div
                 className="full-width-image-container margin-top-0"
                 style={{
@@ -98,6 +99,7 @@ const BlogPost = ({ data }) => {
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
+        featuredimage={post.frontmatter.featuredimage}
         helmet={
           <Helmet titleTemplate="%s | Blog">
             <title>{`${post.frontmatter.title}`}</title>
