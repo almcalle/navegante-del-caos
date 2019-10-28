@@ -11,6 +11,7 @@ featuredimage: /img/Vardzia-PANO.jpg
 tags:
   - Georgia
   - viajes
+  - UNESCO
 ---
 Una maravilla creada por Dios, así fue descrita la ciudad de Vardzia en el siglo XVI por un historiador persa
 
