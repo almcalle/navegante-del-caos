@@ -40,7 +40,7 @@ class TagRoute extends React.Component {
                     </p>
                   </header>
                   <p>
-                    {post.excerpt}
+                    {post.node.excerpt}
                     <br />
                     <br />
                     <Link className="button" to={post.node.fields.slug}>
