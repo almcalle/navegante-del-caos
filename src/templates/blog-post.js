@@ -24,7 +24,7 @@ export const BlogPostTemplate = ({
     title: title
   };
   return (
-    <section className="section">
+    <div>
       {helmet || ""}
       <div className="container content">
         <div className="columns">
@@ -57,32 +57,33 @@ export const BlogPostTemplate = ({
                 {title}
               </h1>
             )}
-
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
-            {
-              // <CommentCount
-              //   config={disqusConfig}
-              //   placeholder={"Número de comentarios"}
-              // />
-            }
-            <Disqus config={disqusConfig} />
+            <section className="section">
+              <p>{description}</p>
+              <PostContent content={content} />
+              {tags && tags.length ? (
+                <div style={{ marginTop: `4rem` }}>
+                  <h4>Tags</h4>
+                  <ul className="taglist">
+                    {tags.map(tag => (
+                      <li key={tag + `tag`}>
+                        <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ) : null}
+              {
+                // <CommentCount
+                //   config={disqusConfig}
+                //   placeholder={"Número de comentarios"}
+                // />
+              }
+              <Disqus config={disqusConfig} />
+            </section>
           </div>
         </div>
       </div>
-    </section>
+    </div>
   );
 };
 
