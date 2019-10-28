@@ -18,7 +18,7 @@ Son grandes productores de vino y su forma de producirlo también en diferente e
 
 Los georgianos son muy religiosos, a veces al pasar por algún punto en la carretera todos empiezan a santiguarse a la vez y a veces es imposible encontrar ninguna marca religiosa a la vista.
 
-Al ser un punto estratégico de la ruta de la seda su comida se encuentra a medio camino entre Asia y Europa. Su plato estrella los Khinkali no decepciona a nadie.
+Al ser un punto estratégico de la ruta de la seda su comida se encuentra a medio camino entre Asia y Europa. Su plato estrella los Khinkali no decepciona a nadie. Otros platos son Khachapuri (el de la foto), Kubdari, Kharcho...
 
 Tienen gran cantidad de aguas minerales, siendo algunas de ellas (por ejemplo Bakuriani) exportadas hasta Polonia debido a sus excelentes propiedades.
 
