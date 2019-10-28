@@ -33,10 +33,14 @@ export const BlogPostTemplate = ({
               <div
                 className="full-width-image-container margin-top-0"
                 style={{
-                  backgroundImage: `url(${featuredimage})`
+                  backgroundImage: `url(${
+                    !!featuredimage.childImageSharp
+                      ? featuredimage.childImageSharp.fluid.src
+                      : featuredimage
+                  })`
                 }}
               >
-                <h1
+                <h2
                   className="has-text-weight-bold is-size-1"
                   style={{
                     boxShadow: "0.5rem 0 0 #2a4382, -0.5rem 0 0 #2a4382",
@@ -46,7 +50,7 @@ export const BlogPostTemplate = ({
                   }}
                 >
                   {title}
-                </h1>
+                </h2>
               </div>
             ) : (
               <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
@@ -136,7 +140,7 @@ export const pageQuery = graphql`
         tags
         featuredimage {
           childImageSharp {
-            fluid(maxWidth: 120, quality: 100) {
+            fluid(maxWidth: 2048, quality: 100) {
               ...GatsbyImageSharpFluid
             }
           }
