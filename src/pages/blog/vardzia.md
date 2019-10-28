@@ -27,4 +27,3 @@ El monasterio de Vardzia fue asediada y saqueada por el iraní Shan Tamaz en 155
 
 Vardzia fue uno de los primeros museos-reserva de toda Georgia, estableciéndose en 1938.
 
-![Vardzia Monasterio](/img/Vardzia-Iglesia.jpg "Vardzia Monasterio")
