@@ -35,6 +35,8 @@ Con este enlace podrás conseguir 6€ de regalo en Revolut para que te envíen 
 Estos cajeros son el mal, están saliendo como setas por todo europa y es gracias a lo lucrativos que son.
 No solo te cobran una comisión de un par de euros por cada transacción sino que además si se saca dinero de una cuenta con otra moneda que no es la del país te intentará aplicar una tasa de cambio muy mala (A veces hasta un 30% de diferencia con el valor real) y reducirá de manera drástica el dinero que obtienes en esa otra moneda.
 
+![Cajero Euronet](/img/Euronet.jpg "Cajero Euronet")
+
 ## Casas de cambio
 
 Siempre compara precios entre varias casas de cambio y busca el que sea mejor.

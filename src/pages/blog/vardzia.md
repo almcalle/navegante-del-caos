@@ -3,7 +3,9 @@ templateKey: blog-post
 title: Vardzia
 date: 2019-09-29T16:56:19.753Z
 isPublished: true
-description: 'Vardzia, uno de los lugares más singulares de Georgia.'
+description: >-
+  Vardzia, una ciudad excavada en piedra en el siglo XII que ha llegado intacta
+  hasta nuestros días y uno de los lugares más singulares de Georgia.
 featuredpost: false
 featuredimage: /img/Vardzia-PANO.jpg
 tags:

@@ -2,16 +2,17 @@
 templateKey: blog-post
 title: Bodas en Polonia
 date: 2019-08-20T15:04:10.000Z
-isPublished: false
-description: Bodas en Polonia
+isPublished: true
+description: >-
+  Muchos sabréis que yo me apunto a un bombardeo, así que cuando me surgió la
+  oportunidad de ir a una boda polaca no lo dudé dos veces y no pude decir que
+  no, en esta entrada contaré cómo fue y curiosidades de las bodas en Polonia.
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
-  - NoTAG
+  - Polonia
 ---
-<!-- ![flavor wheel](/img/flavor_wheel.jpg) -->
 
-Muchos sabréis que yo me apunto a un bombardeo, así que cuando me surgió la oportunidad de ir a una boda polaca no lo dudé dos veces y no pude decir que no, en esta entrada contaré cómo fue y curiosidades de las bodas en Polonia.
 
 La boda era a unos 50 kilómetros de donde estábamos, por lo que había que ir en coche, pero como en las bodas polacas se bebe mucho vodka y además el limite para beber allí&nbsp;es 0.0, osea nada de alcohol, es mejor que nadie tome el coche y que se queden allí a dormir, cosa que suele estar pagado y organizado por los padres de los novios que decidieron alojar a la gente en un hotel que valía unos 250zl la noche (unos 59€).
 
@@ -39,3 +40,5 @@ A las 3 de la noche estábamos cansados y decidimos ir a dormir, llevábamos all
 Al día siguiente a pesar de la resaca continuaba la fiesta now levantamos y volvimos para el salón del hotel donde era la boda y donde mucha gente parecía que seguía desde el día anterior de fiesta y algunos hasta con la misma ropa pero sin la orquesta, que ya había acabado su función y se fue.
 
 Volvieron los cánticos y chupitos está vez para la gente que no conducía, comimos otra vez y nos preparamos para irnos, no sin antes la madre de la novia darnos tres botellas de vodka y mucha comida para llevar a casa ;)
+
+¿Qué opinais de las tradiciones polacas? ¿Habéis estado en alguna boda polaca antes?
