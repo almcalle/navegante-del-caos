@@ -30,4 +30,6 @@ Estos son los lugares que se deben visitar en Kazajistán
 
 * **Turkestan**: Capital espiritual del país y uno de los mayores centros de peregrinación de la región después de La Meca. Aquí se encuentra el mausoleo de , un santo de la religión musulmana
 
+* **Lago Kaindy**:  Uno de los sitios más bonitos que he estado nunca, si vas al cañon Sharinsky deberías intentar visitarlo, ya que solo esta a 100km de allí.
+
 ![](/img/Turkestan.jpg)
