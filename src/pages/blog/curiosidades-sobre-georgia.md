@@ -9,21 +9,16 @@ featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
   - NoTAG
 ---
-Georgia es el nombre para los extranjeros:
+Georgia es el nombre para los extranjeros, el nombre oficial del país es **Sakartvelo**. Georgia»es un exónimo, utilizado en Occidente desde la época medieval. El nombre fue etimologizado como una referencia a San Jorge debido a la especial reverencia de los georgianos hacia ese santo
 
-El nombre oficial del país es «Sakartvelo», tal como se especifica en la Constitución de Georgia. «Georgia» es un exónimo, utilizado en Occidente desde la época medieval. El nombre fue etimologizado como una referencia a San Jorge, más concretamente a finales del siglo XII por Jacques de Vitry, debido a la especial reverencia de los georgianos hacia ese santo
-
-El alfabeto Georgiano es único en el mundo y además no tiene mayúsculas.
-
- Es uno de los 14 alfabetos del mundo y además el 5 en antiguedad
-
-La inscripción más antigua encontrada hasta ahora data del año 430 d. C
-
-En un mes yo no fui capaz de memorizar más de 5 letras (tampoco me esforcé mucho), pero solo sabiendo las vocales te puedes manejar algo.
+El alfabeto Georgiano es uno de los 14 alfabetos del mundo y además el 5º en antiguedad y además no tiene mayúsculas. La inscripción más antigua encontrada hasta ahora data del año 430 d. C. En un mes yo no fui capaz de memorizar más de 5 letras (tampoco me esforcé mucho), pero solo sabiendo las vocales te puedes manejar algo.
 
 Son grandes productores de vino y su forma de producirlo también en diferente en el mundo.
 
-Al ser un punto estratégico de la ruta de la seda su comida se encuentra a medio camino entre Asia y Europa. Su plato estrella los kinhali no decepciona a nadie.
-
+Al ser un punto estratégico de la ruta de la seda su comida se encuentra a medio camino entre Asia y Europa. Su plato estrella los Khinkali no decepciona a nadie.
 
 Tienen gran cantidad de aguas minerales, siendo algunas de ellas (por ejemplo Bakuriani) exportadas hasta Polonia debido a sus excelentes propiedades.
+
+
+
+Son muy religiosos.
