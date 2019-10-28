@@ -5,7 +5,7 @@ date: 2017-08-18T15:04:10.000Z
 isPublished: true
 description: Lugares imprescindibles para visitar en Kazajistán
 featuredpost: false
-featuredimage: /img/Sharinsky.jpg
+featuredimage: /img/BAO.jpg
 tags:
   - Kazajistán
   - viajes
