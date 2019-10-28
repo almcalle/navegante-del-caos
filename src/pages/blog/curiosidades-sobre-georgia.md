@@ -7,7 +7,7 @@ description: Curiosidades de Georgia
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
-  - noTags
+  - NoTAG
 ---
 Georgia es el nombre para los extranjeros:
 

@@ -7,7 +7,7 @@ description: Descrip
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
-  - noTags
+  - NoTAG
 ---
 Papá, has matado a mi padre.
 

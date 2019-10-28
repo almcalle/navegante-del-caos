@@ -7,7 +7,7 @@ description: Comida Georgiana
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
-  - noTags
+  - NoTAG
 ---
  Es espectacular, usan bastante las especias y el picante. 
 

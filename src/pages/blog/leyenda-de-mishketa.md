@@ -7,7 +7,7 @@ description: Leyenda de mishketa
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
-  - 'no'
+  - 'NoTAG'
 ---
 According to the tradition, in the first century AD, Rabbi Helios bought the Tunic of the Lord from Roman soldiers in the Holy Land, and when he arrived in Mtskheta, he gave it to his sister Sidonia. The latter, having taken this relic into her hands, died at once. The Tunic could not be freed from her arms and Sidonia was buried together with it. A large tree grew on her grave, which became a sacred place for the residents of Mtskheta; miracles of healing occurred near it and even those people who did not confess Christianity venerated it all the same as they felt its particular power.
 
