@@ -10,13 +10,9 @@ tags:
   - Georgia
   - viajes
 ---
-
-
 Una maravilla creada por Dios, así fue descrita la ciudad de Vardzia en el siglo XVI por un historiador persa
 
 ![Vardzia](/img/Vardzia.jpg "Vardzia")
-
- 
 
 El rey George III empezó a construirlo en la segunda mitad del siglo XII y su hija la reina Tamar completó la construcción y su singular localización respondía a la necesidad de defenderlo contra los mongoles.
 
@@ -28,3 +24,5 @@ Allí se encuentra uno de los campanarios más antiguos de toda Georgia, de pied
 El monasterio de Vardzia fue asediada y saqueada por el iraní Shan Tamaz en 1552 y después de eso la vida religiosa disminuyó bastante, pero sin llegar a desaparecer completamente.
 
 Vardzia fue uno de los primeros museos-reserva de toda Georgia, estableciéndose en 1938.
+
+![Vardzia Monasterio](/img/Vardzia-Iglesia.jpg "Vardzia Monasterio")
