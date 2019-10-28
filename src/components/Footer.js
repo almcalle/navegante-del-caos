@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         
-        <InstagramFeed count="16" />
+        <InstagramFeed count="8" />
       </footer>
     )
   }
