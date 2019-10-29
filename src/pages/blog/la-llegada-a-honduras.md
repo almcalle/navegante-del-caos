@@ -9,7 +9,8 @@ description: >-
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
-  - Honduras ACOES
+  - Honduras 
+  - ACOES
 ---
 <h1><span style="font-weight: 400;">El vuelo transatlántico</span></h1>
 
