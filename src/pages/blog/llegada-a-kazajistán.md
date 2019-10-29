@@ -9,7 +9,8 @@ description: >
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
-  - Kazajistán viajes
+  - Kazajistán 
+  - viajes
 ---
 A la llegada al aeropuerto de Kazajistán y después de recoger la mochila facturada llegamos al control policial. Me hizo rellenar un papel y me preguntó mi nombre, razón de estancia en el país y dónde me quedaba, en que hotel, pero le dije que no tenía y me selló en el pasaporte sin problema y me dio una carta de inmigración sellada también. Este era el famoso registro que hay que hacer en Kazajistán y no nos hizo falta nada más.
 
