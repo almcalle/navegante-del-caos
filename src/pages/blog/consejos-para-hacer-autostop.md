@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Consejos para hacer autostop
-date: 2019-10-29T19:25:55.232Z
+date: 2017-06-28T19:25:55.232Z
 isPublished: true
 description: >-
   En España esto del autostop es poco común, pero en otros es muy común y hasta
