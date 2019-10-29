@@ -11,8 +11,6 @@ featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
   - viajes autostop
 ---
-
-
 Todo empezó en Atenas en febrero de 2014. Llevaba mucho tiempo queriendo hacer autostop, pero hasta aquella vez no me atreví, pero después de aquella aventura quedé enamorado de éste caótico viaje en autostop.
 
 Luego en el verano de 2014 viví un mes haciendo autostop y de esa forma descubrí que el autostop es algo que engancha, el conocer sitios alejados de los lugares principales, gente que te ayuda sin pedir nada a cambio y sobre todo miles de aventuras que contaré en este blog más adelante ;)
@@ -22,6 +20,8 @@ Así que otra vez me propuse hacerlo, nunca había hecho autostop en Polonia (er
 Para ir lo más barato y rápido a nuestro destino era hacer autostop y además así mataba el gusanillo del autostop ya que dos años desde mi último viaje en autostop.
 
 El recorrido a hacer en autostop era ir de Szczecin hasta la ciudad de Międzyrzecz, a unos 149 kilómetros, donde nos recogerían unos amigos para ir con ellos a una casa en el lago.
+
+![Ruta en autostop](/img/IMG_20170703_134335.jpg "Ruta en autostop")
 
 En Szczecin buscamos usando hitchwiki el punto de salida hacía nuestro destino, compramos un marcador para hacer una señal con cartón con el destino "Gorzów WPL" ciudad que estaba a unos 100 kilómetros de Szczecin y a poco más de medio camino a Międzyrzecz.
 
