@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Razones para visitar Kazajistán
-date: 2019-10-29T19:13:40.970Z
+date: 2017-06-20T19:13:40.970Z
 isPublished: true
 description: >-
   En esta entrada haré una introducción sobre el país con cuestiones sobre dónde
@@ -12,6 +12,11 @@ featuredimage: /img/Sharinsky.jpg
 tags:
   - Kazajistán
 ---
+
+<span style="font-size: 1rem;">Kazakhstan o Kazajistán es uno de los países más grandes del mundo, <strong>es el 9 en extensión y el país más grande sin acceso al mar</strong> (Teniendo en cuenta que el mar mar Caspio no es un mar, sino que es un lago de agua salada).</span>
+
+<span style="font-size: 1rem;">
+<strong>La capital de Kazajistán</strong></span>
 
 <span style="font-size: 1rem;">Es Astana desde el 1997 que fue trasladada desde Almaty, ciudad que muchos todavía piensan que es la actual capital de Kazakhstan.</span>
 
