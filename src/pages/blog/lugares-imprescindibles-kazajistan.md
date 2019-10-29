@@ -30,3 +30,8 @@ Estos son los lugares que se deben visitar en Kazajistán
   ![Turkestan](/img/Turkestan.jpg)
 * **Lago Kaindy**:  Uno de los sitios más bonitos que he estado nunca, si vas al cañon Sharinsky deberías intentar visitarlo, ya que solo esta a 100km de allí.
 ![Lago Kaindy](/img/Lago_Kaindy.jpg "Lago Kaindy")
+
+
+
+Esta es nuestra lista con los mejores lugares que visitar en Kazajistán. ¿Has visitado Kazajistán? Compartenos tu lista de lugares imprescindibles de Kazajistán.
+
