@@ -14,6 +14,8 @@ Georgia es el nombre para los extranjeros, el nombre oficial del país es **Saka
 El alfabeto Georgiano es uno de los 14 alfabetos del mundo (el 5º en antiguedad ) y además no tiene mayúsculas.
 La inscripción  en georgiano más antigua encontrada hasta ahora data del año 430 d. C. En un mes yo no fui capaz de memorizar más de 5 letras (tampoco me esforcé mucho), pero solo sabiendo las vocales te puedes manejar algo.
 
+![Alfabeto Georgiano](/img/alfabeto-georgiano.png "Alfabeto Georgiano")
+
 Son grandes productores de vino y su forma de producirlo también en diferente en el mundo, para ello prensan las uvas y luego ponen el zumo junto con las pepitas y cáscara todo junto en grandes ánforas de arcilla y esperan hasta que fermente.
 
 Los georgianos son muy religiosos, a veces al pasar por algún punto en la carretera todos empiezan a santiguarse a la vez y a veces es imposible encontrar ninguna marca religiosa a la vista.
