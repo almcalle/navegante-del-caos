@@ -5,7 +5,7 @@ date: 2019-10-27T19:44:49.305Z
 isPublished: false
 description: Curiosidades de Georgia
 featuredpost: false
-featuredimage: /img/portada-web-navegante-del-caos.png
+featuredimage: /img/Georgia.png
 tags:
   - NoTAG
 ---
@@ -20,6 +20,6 @@ Los georgianos son muy religiosos, a veces al pasar por algún punto en la carre
 
 Al ser un punto estratégico de la ruta de la seda su comida se encuentra a medio camino entre Asia y Europa. Su plato estrella los Khinkali no decepciona a nadie. Otros platos son Khachapuri (el de la foto), Kubdari, Kharcho...
 
+![Khachapuri](/img/Khachapuri.jpg "Khachapuri")
+
 Tienen gran cantidad de aguas minerales, siendo algunas de ellas (por ejemplo Bakuriani) exportadas hasta Polonia debido a sus excelentes propiedades.
-
-
