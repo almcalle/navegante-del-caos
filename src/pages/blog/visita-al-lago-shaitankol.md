@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Visita al lago Shaitankol
-date: 2019-10-29T19:35:45.028Z
+date: 2017-07-29T19:35:45.028Z
 isPublished: true
 description: >-
   En esta entrada contaré cómo llegar al lago Shaitankol, sus leyendas y las
