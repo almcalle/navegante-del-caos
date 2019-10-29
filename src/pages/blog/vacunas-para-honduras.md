@@ -24,6 +24,7 @@ Una vez dentro de la consulta del médico este te explica una serie de directric
     <li>Cólera: Vacuna oral de la marca Dukoral que consta de un bote de un líquido blanco y un sobre con bicarbonato (Para que el ácido del estómago no mate a los microorganismos) que se toman juntos en un vaso de agua y sin comer ni beber una antes ni después. Consta de dos dosis que deben tomarse con una semana de separación.</li>
     <li>Tétanos/Difteria: Se trata de una dosis de refuerzo que se pone cada 10 años y que te la pueden poner en cualquier centro de salud.</li>
     <li>Malaria o paludismo: Está enfermedad sólo se da en la zona al este de Honduras y no hay cura para ella por lo tanto es mejor tener cuidado en esa zona y usar un repelente de mosquitos de la menos 45% de DEET, dormir en camas con mosquiteras en esa zona, etc.</li>
+<li>La fiebre amarilla: En Honduras no es obligatoria, pero si en Panamá, donde hice escala y si te quedas más de 1 día no puedes entrar al país sin esta vacuna</li>
 </ul>
 
 Las vacunas del Cólera y la fiebre Tifoidea se compran en cualquier farmacia (Para que te salgan más baratas es mejor ir al centro de salud y que te las recete) y hay que mantener frías para no matar a los microorganismos que contienen y que crearán la resistencia a la enfermedad.
