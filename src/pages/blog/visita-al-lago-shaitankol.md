@@ -61,7 +61,7 @@ Mientras ellos cazaban Tleuberdy siguiendo el rastro de la pareja llegó a las m
 
 <span style="font-size: 1rem;">El eco trajo sus últimas palabras a Altai y este corrió hacía el lago, pero cuando llegó lo único que encontró fue su sombrero flotando en el agua congelada. Tal fue su pena y su desesperación al verse rodeado por las llamas que no lo dudó y se clavó su daga en el pecho para así poder reunirse con su amada.</span>
 
-Esta es la leyenda del lago Shaitankol más famosa de Kazajístan, pero no la única. La siguiente historia cuenta el origen del nombre del lago.
+Esta es la leyenda del lago Shaitankol más famosa de Kazajistán, pero no la única. La siguiente historia cuenta el origen del nombre del lago.
 
 <h1>La leyenda que dió origen al nombre del lago</h1>
 
@@ -81,4 +81,4 @@ Para encontrar el camino más fácilmente es bueno usar la app <a href="http://
 Este camino conduce a la otra parte de la montaña. Al final hay un complejo vacacional con un gran lago con una playa. Mucha gente va allí de vacaciones y suele haber bastante ambiente alrededor. Se puede descansar en la playa, tomar un poco el sol o comprar algún refrigerio en la tienda que hay allí.
 Desde allí hay 10 kilómetros a Karkaraly, se puede tomar un taxi hasta el pueblo por unos 1000 tg. Nosotros decidimos hacer autostop y rápidamente nos llevaron al pueblo y luego al camping otra vez para descansar.
 
-Esta fue nuestra visita al lago Shaitankol. ¿Conoces algún otro paraje natural en Kazajístan? ¿Alguna experiencia similar? Cuéntanoslo en los comentarios :)
+Esta fue nuestra visita al lago Shaitankol. ¿Conoces algún otro paraje natural en Kazajistán? ¿Alguna experiencia similar? Cuéntanoslo en los comentarios :)
