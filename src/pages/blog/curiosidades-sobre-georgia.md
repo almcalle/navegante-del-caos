@@ -1,13 +1,16 @@
 ---
 templateKey: blog-post
 title: Curiosidades de Georgia
-date: 2019-10-27T19:44:49.305Z
-isPublished: false
+date: 2019-10-29T19:44:49.305Z
+isPublished: true
 description: Curiosidades de Georgia
 featuredpost: false
 featuredimage: /img/Georgia.png
 tags:
-  - NoTAG
+  - Georgia
+  - viajes
+  - curiosidades
+
 ---
 Georgia es el nombre para los extranjeros, el nombre oficial del país es **Sakartvelo**. Georgia es un exónimo, utilizado en Occidente desde la época medieval. El nombre fue etimologizado como una referencia a San Jorge debido a la especial reverencia de los georgianos hacia ese santo y quien viaje por el país podrá ver imagenes de este santo en cada iglesia.
 
