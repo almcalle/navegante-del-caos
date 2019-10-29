@@ -8,7 +8,7 @@ description: >-
   está Kazajistán, que idioma se habla o cómo es la bandera y algunas razones
   para visitar Kazajistán.
 featuredpost: false
-featuredimage: /img/Sharinsky.jpg
+featuredimage: /img/Flag_of_Kazakhstan.png
 tags:
   - Kazajistán
 ---
