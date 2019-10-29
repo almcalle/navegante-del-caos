@@ -12,11 +12,11 @@ featuredimage: /img/Sharinsky.jpg
 tags:
   - Kazajistán
 ---
+Kazakhstan o Kazajistán es uno de los países más grandes del mundo, <strong>es el 9 en extensión y el país más grande sin acceso al mar</strong> (Teniendo en cuenta que el mar mar Caspio no es un mar, sino que es un lago de agua salada.
 
-<span style="font-size: 1rem;">Kazakhstan o Kazajistán es uno de los países más grandes del mundo, <strong>es el 9 en extensión y el país más grande sin acceso al mar</strong> (Teniendo en cuenta que el mar mar Caspio no es un mar, sino que es un lago de agua salada).</span>
+## La capital de Kazajistán
 
-<span style="font-size: 1rem;">
-<strong>La capital de Kazajistán</strong></span>
+
 
 <span style="font-size: 1rem;">Es Astana desde el 1997 que fue trasladada desde Almaty, ciudad que muchos todavía piensan que es la actual capital de Kazakhstan.</span>
 
@@ -27,7 +27,7 @@ Ya sabemos algunos datos de Kazajistán, pero exactamente:
 Kazajistán tiene frontera con Kirguistán, Uzbekistán, Turkmenistán, Rusia y China, a la vez que posee costas en el mar Caspio y el mar de Aral y es un país país transcontinental, con la mayor parte de su territorio situada en Asia Central y una menor (al oeste del río Ural) en Europa.<span style="font-size: 1rem;">
 La <strong>distancia de España a Kazajistán es 5.492,15 km</strong> si vas en avión, pero si quieres ir a Kazajistán en coche ya la ruta son 6.938,44 km.</span>
 
-[caption id="attachment_127" align="aligncenter" width="597"]<img class="wp-image-127" src="http://navegantedelcaos.com/wp-content/uploads/2017/06/Mapa-de-Kazakhstan.png" alt="Mapa de Kazakhstan" width="597" height="356" /> Mapa de Kazakhstan[/caption]
+\[caption id="attachment_127" align="aligncenter" width="597"]<img class="wp-image-127" src="http://navegantedelcaos.com/wp-content/uploads/2017/06/Mapa-de-Kazakhstan.png" alt="Mapa de Kazakhstan" width="597" height="356" /> Mapa de Kazakhstan\[/caption]
 
 <h2><strong>La bandera de Kazajistán</strong></h2>
 
@@ -36,7 +36,7 @@ el arte y las tradiciones culturales del pueblo kazajo.
 
 Si te ha gustado esta explicación sobre la Bandera de Kazajistán puedes bajarte nuestra app sobre las banderas de Europa <a href="https://play.google.com/store/apps/details?id=com.almcalle.banderas.europa">aquí</a>
 
-[caption id="attachment_122" align="alignnone" width="300"]<img class="size-medium wp-image-122" src="http://navegantedelcaos.com/wp-content/uploads/2017/06/bandera-kazajistan-300x200.gif" alt="Bandera de Kazakhstan" width="300" height="200" /> Bandera de Kazakhstan[/caption]
+\[caption id="attachment_122" align="alignnone" width="300"]<img class="size-medium wp-image-122" src="http://navegantedelcaos.com/wp-content/uploads/2017/06/bandera-kazajistan-300x200.gif" alt="Bandera de Kazakhstan" width="300" height="200" /> Bandera de Kazakhstan\[/caption]
 
 <h2><span style="font-size: 1rem;">
 <strong>El idioma de Kazajistán </strong></span></h2>
