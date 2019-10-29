@@ -12,25 +12,15 @@ featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
   - Kazajistán
 ---
-
-
 Si queréis saber cómo fue nuestra llegada haciendo autostop al parque natural haz click <a href="http://navegantedelcaos.com/llegada-a-kazajistan/">aquí</a>
 
 <h1>Cómo llegar a Karkaraly</h1>
 
 Desde Karaganda se puede llegar en un bus que tarda 4 horas por unos 750 tg o en taxi por unos 2500 tg por persona. Ambos medios de transporte se pueden tomar desde la estación de autobuses por lo que es recomendable tomar uno de los múltiples buses que salen diariamente. Desde los buses se pueden ver estampas como esta:
 
-https://www.instagram.com/p/BWZWHNVjBHR/
-
-&nbsp;
+![Bus Kazajistán](/img/IMG_20170708_170759.jpg "Bus Kazajistán")
 
 Cuando el autobús para en Karkaraly hay muchos taxis esperando a la gente que viene en el bus. Cuando ya no nadie más se van y a veces no se encuentra ningún taxi. Justo en frente de la parada de los buses hay una tienda pequeña y un monumento bastante chulo con un avión.
-
-https://www.instagram.com/p/BX-vnV9je3z/
-
-&nbsp;
-
-<!--more-->
 
 Un taxi hasta la entrada del parque natural cuesta unos 500 tg (1'4€) y de camino se puede ver el pequeño lago Plotina donde los locales pueden nadar, refrescarse o acampar allí si no se quiere pagar por acampar.
 
@@ -44,9 +34,7 @@ Desde el camping se puede llegar al lago a pie haciendo una ruta de 2-3 horas pa
 
 Estas son algunas de las imágenes que tomamos durante la ruta:
 
-https://www.instagram.com/p/BX6fSTmDQY1/
-
-&nbsp;
+![Caballos](/img/IMG_20170709_085743.jpg "Caballos")
 
 <span style="font-size: 1.5rem;">El lago Shaitankol</span>
 
@@ -70,8 +58,6 @@ Al día siguiente volvió y volvió a ver los mismos seres, pero esta vez se con
 Esta leyenda es la que está detrás del origen del nombre Shaitankol (Shaitan- demonio; kol- lago) y aún hoy en día se cuentan historias de gente que pasó la noche allí y nunca se volvió a saber de ellos.
 
 https://www.instagram.com/p/BWZAaiVjBh8/
-
-&nbsp;
 
 <h1>Continuación de la ruta</h1>
 
