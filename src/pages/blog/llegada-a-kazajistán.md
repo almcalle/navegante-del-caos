@@ -7,7 +7,7 @@ description: >
   En esta entrada os contaré la llegada al aeropuerto de Astaná en Kazajistán y
   lo que hicimos durante los primeros días.
 featuredpost: false
-featuredimage: /img/portada-web-navegante-del-caos.png
+featuredimage: /img/Flag_of_Kazakhstan.png
 tags:
   - Kazajistán 
   - viajes
