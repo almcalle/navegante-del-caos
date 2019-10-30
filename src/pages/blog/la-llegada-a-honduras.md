@@ -25,7 +25,6 @@ tags:
 <h1><span style="font-weight: 400;">Visita a Panamá</span></h1>
 
 <span style="font-weight: 400;">Llegamos cansados al aeropuerto pero intentamos salir lo más rápìdo posible para aprovechar nuestras pocas horas allí en Panamá. Al llegar al control de pasaporte me dí cuenta que era el único que no estaba vacunado de la fiebre amarilla, requisito necesario para entrar al país. No tuve problemas para entrar pero solo porque estaba menos de 24 horas (No hacía falta para estancias tan cortas). Al salir del aeropuerto nos dimos cuenta del asfixiante clima tropical que tendríamos que soportar durante los próximos 2 meses.</span>
-<!--more-->
 <span style="font-weight: 400;">Llegamos a Panamá a las 18 de la noche, así que decidimos pasar la noche en un hostel y para tardar menos nos recogieron en coche la gente del hostel para llegar más rápido (Por unos 8 dólares el trayecto) y así dar una vuelta por la noche. Por el camino pudimos ver los altos rascacielos de Panamá.</span>
 
 <span style="font-weight: 400;">El hostel costaba unos 14€ la noche y estaba bastante bien. Se llamaba “Hostal Carolina Princess Marbella” y tenía una  gran piscina, pero no lo disfrutamos demasiado debido a que queríamos visitar la ciudad.</span>

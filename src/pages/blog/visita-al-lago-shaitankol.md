@@ -13,7 +13,7 @@ tags:
   - Kazajistán
   - viajes
 ---
-Si queréis saber cómo fue nuestra llegada haciendo autostop al parque natural haz click <a href="http://navegantedelcaos.com/llegada-a-kazajistan/">aquí</a>
+Si queréis saber cómo fue nuestra llegada haciendo autostop al parque natural haz click <a href="http://navegantedelcaos.com/blog/llegada-a-kazajistan/">aquí</a>
 
 <h1>Cómo llegar a Karkaraly</h1>
 
