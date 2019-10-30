@@ -44,17 +44,21 @@ Dejamos las mochilas en su casa y nos enseñó su campo con el todoterreno mient
 
 Luego fue a recoger a otro amigo suyo y nos enseñaron sus trigales fanfarroneando de que tenían entre los dos unas 20 mil hectáreas.
 
+  ![Amigos Kazajos](/img/Amigo_Kazajo.jpg)
+
+
 Después de más cervecitas dejó a su amigo en su casa y fuimos a dormir.
 
 Al día siguiente nos dejó en la autopista otra vez para seguir el camino. Tras unos 20 minutos nos llevó otro hombre hasta la estación de autobuses de Karagandy mientras intentaba convencerme de la estupidez de ser ateo.
 
-Una vez en la estación nos dijo que para ir a Karkaraly &nbsp;podíamos tomar un taxi que costaba 2500 tengue por persona (unos 7,1€). Pero preferimos esperar al bus que valía 750 tengue (2,15€) por persona mientras comíamos barato en otro en otro Stolobar.
+Una vez en la estación nos dijo que para ir a Karkaraly podíamos tomar un taxi que costaba 2500 tengue por persona (unos 7,1€). Pero preferimos esperar al bus que valía 750 tengue (2,15€) por persona mientras comíamos barato en otro en otro Stolobar.
 
 En el bus el conductor nos trató genial. No estaba acostumbrado a ver extranjeros y nos puso en el asiento delantero del bus pese a tener que poner a una chica en el asiento del copiloto del bus y haciéndole levantarse cada vez que entraba o salía alguien.
 
 Los 220 km hacía Karkaraly transcurrieron tranquilos mientras veíamos el paisaje desde el bus. El bus a Karkaraly no iba a demasiado rápido debido a lo viejo que era y además la carretera no era demasiado buena.
 
-https://www.instagram.com/p/BWZWHNVjBHR/
+  ![Bus Kazajistan](/img/Bus_Kazajistan.jpg)
+
 
 Al llegar a la estación fuimos a una tienda y a un parque cercano para comprar provisiones para el parque natural de Karkaraly.
 
@@ -72,6 +76,6 @@ Después de montar la tienda el chico se nos acercó, nos invitó a comer y bebe
 
 Esta fue la primera experiencia por Kazajistán y pudimos comprobar de primera mano la hospitalidad del pueblo kazajo y algunas de sus costumbres.
 
-Si queréis saber como continua la aventura por Kazajistán haz click&nbsp;<a href="http://navegantedelcaos.com/visita-al-lago-shaitankol/">aquí</a>
+Si queréis saber como continua la aventura por Kazajistán haz click<a href="https://navegantedelcaos.com/blog/visita-al-lago-shaitankol/">aquí</a>
 
 Y tú ¿Has tenido alguna experiencia similar en algún país? ¿Has visitado Kazajistán? Escríbeme un comentario y cuéntame tu historia :)

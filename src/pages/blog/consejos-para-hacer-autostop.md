@@ -11,6 +11,8 @@ featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
   - autostop
+  - viajes
+
 ---
 
 Lo fundamental es encontrar un buen sitio para hacer autostop y donde los coches tengan suficiente espacio para verte y parar sin problemas. Una gran fuente de información es&nbsp;<a href="http://hitchwiki.org/maps/">Hitchwiki</a>, dónde se puede encontrar mucha valiosa información sobre cómo es cada país con respecto al autostop y un mapa donde la gente &nbsp;anota los mejores puntos para hacer autostop, como llegar a ellos y otros datos útiles como el tiempo de espera.

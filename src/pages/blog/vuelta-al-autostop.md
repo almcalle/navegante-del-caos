@@ -9,7 +9,8 @@ description: >-
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
-  - viajes autostop
+  - viajes 
+  - autostop
 ---
 Todo empezó en Atenas en febrero de 2014. Llevaba mucho tiempo queriendo hacer autostop, pero hasta aquella vez no me atreví, pero después de aquella aventura quedé enamorado de éste caótico viaje en autostop.
 

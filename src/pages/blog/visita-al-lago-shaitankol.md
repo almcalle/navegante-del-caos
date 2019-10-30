@@ -8,9 +8,10 @@ description: >-
   rutas que se pueden hacer por el parque natural y también como llegar a
   Karkaraly.
 featuredpost: false
-featuredimage: /img/portada-web-navegante-del-caos.png
+featuredimage: /img/lago_Shaitankol.jpg
 tags:
   - Kazajistán
+  - viajes
 ---
 Si queréis saber cómo fue nuestra llegada haciendo autostop al parque natural haz click <a href="http://navegantedelcaos.com/llegada-a-kazajistan/">aquí</a>
 
@@ -56,6 +57,8 @@ Esta es la leyenda del lago Shaitankol más famosa de Kazajistán, pero no la ú
 Hace mucho tiempo un santo llamado Zhirensakal (que vivía en el pico que ahora tiene su nombre) fue una mañana al lago. Allí encontró criaturas humanoides de color amarillo a las que observó desde el bosque. De repente las criaturas se unieron y tomaron la forma de un hombre y que no paraba de repetir la palabra “Aplite”. Asustado Zhirensakal huyó sin que la figura se diera cuenta.
 Al día siguiente volvió y volvió a ver los mismos seres, pero esta vez se convirtieron en un mujer que no paraba de pronunciar la palabra “Zhaplit”. El santo al ver que los demonios estaban criando saltó hacia delante mientras pronunciaba una oración y les gritaba para que se fueran de allí. Después de expulsarlos de allí decidió pasar allí la noche para asegurarse de que no volvieran, cosa que nunca hicieron.
 Esta leyenda es la que está detrás del origen del nombre Shaitankol (Shaitan- demonio; kol- lago) y aún hoy en día se cuentan historias de gente que pasó la noche allí y nunca se volvió a saber de ellos.
+
+![lago Shaitankol](/img/lago_Shaitankol.jpg "Lago Shaitankol")
 
 https://www.instagram.com/p/BWZAaiVjBh8/
 
