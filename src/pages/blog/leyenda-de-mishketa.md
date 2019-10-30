@@ -1,20 +1,20 @@
 ---
 templateKey: blog-post
-title: Leyenda de mishketa
+title: La leyenda de Mtskheta
 date: 2019-10-27T19:42:35.040Z
 isPublished: false
-description: Leyenda de mishketa
+description: La leyenda de Mtskheta
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
   - 'NoTAG'
 ---
 
-Sugún la tradición en el siglo primero d. C. el rabino Helios compró la túnica de Jesucristo de unos soldados romanos en Jerusalem, y cuando llegó a Mtskheta se la dió a su hermana Sidonia.
+Sugún la tradición en el siglo primero d. C. el rabino Helios compró la túnica de Jesucristo de unos soldados romanos en Jerusalem, y cuando llegó a Mtskheta se la dió a su hermana Sidonia y cuando ella tomó esta reliquia entre sus manos murió de golpe. La túnica no fué posible separarla de sus brazos y Sidonia fue enterrada con la túnica. 
 
+Posteriormente un gran árbol creció sobre su tumba y se convirtió en un lugar sagrado para los residentes de Mtskheta debido a los milagros que ocurrian allí y hasta los paganos veneraban aquel lugar debido a su extraño poder y las curaciones milagrosas que ocurrian cerca.
 
-
- The latter, having taken this relic into her hands, died at once. The Tunic could not be freed from her arms and Sidonia was buried together with it. A large tree grew on her grave, which became a sacred place for the residents of Mtskheta; miracles of healing occurred near it and even those people who did not confess Christianity venerated it all the same as they felt its particular power.
+Santa Nino, la 
 
 
 
