@@ -33,4 +33,6 @@ Al ser un punto estratégico de la ruta de la seda su comida se encuentra a medi
 
 Tienen gran cantidad de aguas minerales, siendo algunas de ellas (por ejemplo Bakuriani) exportadas hasta Polonia debido a sus excelentes propiedades.
 
-Conducen como locos
+Conducen como locos, pero al final te acabas acostumbrando y ves que es lo normal allí. Esto hace que cruzar la calle sea lo más peligroso de Georgia.
+
+¿Tienes alguna curiosidad que te haya pasado en el país? ¡Cuéntanosla en los comentarios!
