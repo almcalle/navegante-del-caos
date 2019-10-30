@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: 'Papá, has matado a mi padre'
-date: 2019-10-27T19:40:40.631Z
+date: 2019-11-04T19:40:40.631Z
 isPublished: false
-description: Descrip
+description: Hoy hace un año que murió mi padre por culpa del tabaco...
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
@@ -21,7 +21,7 @@ Es lo que tiene la nicotina, como droga es “estupenda”: Caladas largas y pro
 
 
 
-Sí, lo sé papá… tenías mucho encima; la infancia, la dura postguerra… Además, ninguno somos realmente libres. La publicidad y la sociedad en la que viviste llevaban a eso… ¡Creciste viendo a Bogart, por Dios! Pero… papá… tú mataste a mi padre.
+Sí, lo sé papá… tenías mucho encima... Además, ninguno somos realmente libres. La publicidad y la sociedad en la que viviste llevaban a eso…  Pero… papá… tú mataste a mi padre.
 
 
 
@@ -49,23 +49,20 @@ Pero tú, papá, tú elegiste casarte y tener hijos, compañeros de trabajo, ami
 
 
 
-Y entonces, papá, tú te mataste. Sí, sé que dejaste el tabaco, sé que fueron como 20 años sin fumar… y que saliste de un infarto de milagro… y que te “regalaron una prórroga” de diez años… pero el daño ya estaba hecho.
-
+Y entonces, papá, tú te mataste. Sí, sé que es dificil dejar de fumar, y al final lo lograste, pero el daño ya estaba hecho...
 
 
 Con esa decisión de fumar, que algunos llamarían “libre”, pusiste fin a tu vida… era tuya, tenías derecho. Pero en ese mismo acto mataste a otros muchos… y, a eso, papá, a eso no tenías derecho… no lo tenías.
 
 
 
-Mataste al padre de tus hijos, al marido de tu mujer, al abuelo de tus nietas, al cuñado de tus cuñados, al amigo de tus amigos… mataste a muchos, papá, a mucha gente que no te pertenecía ya sólo a ti, que también “era de otros”. Teníamos un acuerdo de cariño, papá, y lo incumpliste.
-
+Mataste al padre de tus hijos, al marido de tu mujer, al abuelo de tus futuros nietos, al amigo de tus amigos… mataste a muchos, papá, a mucha gente que no te pertenecía ya sólo a ti, que también “era de otros”. Teníamos un acuerdo de cariño, papá, y lo incumpliste.
 
 
 El Universo parece no ofenderse porque hagas lo que quieras, incluso incumplir tus compromisos, pero con esa misma libertad yo puedo reclamar ese incumplimiento y decírtelo, papá.
 
 
-
-No te lo digo con rencor, papá, te lo digo con pena. No estoy enfadado contigo, entiendo que, al fin y al cabo, tú fuiste tu primera víctima.
+No te lo digo con rencor, papá, te lo digo con pena. No estoy enfadado contigo, entiendo que, al fin y al cabo, tú fuiste tu primera víctima y sufriste bastante con ello...
 
 
 
