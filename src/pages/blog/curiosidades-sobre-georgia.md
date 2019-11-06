@@ -33,6 +33,10 @@ Al ser un punto estratégico de la ruta de la seda su comida se encuentra a medi
 
 Tienen gran cantidad de aguas minerales, siendo algunas de ellas (por ejemplo Bakuriani) exportadas hasta Polonia debido a sus excelentes propiedades.
 
+Son un país muy hospitalario, eso hace que sea muy muy fácil hacer autostop y siempre a la mínima te invitan a beber, comer te regalan vino/chacha/mariguana para que te la lleves.
+
 Conducen como locos, pero al final te acabas acostumbrando y ves que es lo normal allí. Esto hace que cruzar la calle sea lo más peligroso de Georgia.
+
+Dicen que están emparentados con los vascos, esto es algo que he escuchado varias veces de personas distinto y es que hay estudios que dicen que los iberos (En Georgia tuvieron también una Iberia) tienen sus origenes por el caucaso y que se expandieron hasta llegar llegar a España. Una vez allí fueron los únicos Iberos supervivientes y de ellos son descendientes los actuales vascos.
 
 ¿Tienes alguna curiosidad que te haya pasado en el país? ¡Cuéntanosla en los comentarios!

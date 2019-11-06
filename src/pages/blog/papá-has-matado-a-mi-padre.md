@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Papá, has matado a mi padre'
 date: 2019-11-04T19:40:40.631Z
-isPublished: false
+isPublished: true
 description: Hoy hace un año que murió mi padre por culpa del tabaco...
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
