@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Curiosidades de Georgia
 date: 2019-10-29T19:44:49.305Z
 isPublished: true
-description: Curiosidades de Georgia
+description: En este artículo cuento algunas curiosidades sobre Georgia que me he encontrado en mi estancia en el país durante 2 meses.
 featuredpost: false
 featuredimage: /img/Georgia.png
 tags:
@@ -33,7 +33,7 @@ Al ser un punto estratégico de la ruta de la seda su comida se encuentra a medi
 
 Tienen gran cantidad de aguas minerales, siendo algunas de ellas (por ejemplo Bakuriani) exportadas hasta Polonia debido a sus excelentes propiedades.
 
-Son un país muy hospitalario, eso hace que sea muy muy fácil hacer autostop y siempre a la mínima te invitan a beber, comer te regalan vino/chacha/mariguana para que te la lleves.
+Son un país muy hospitalario, eso hace que sea muy muy fácil hacer autostop y a la mínima te invitan a beber o comer y te regalan vino o chacha para que te la lleves.
 
 Conducen como locos, pero al final te acabas acostumbrando y ves que es lo normal allí. Esto hace que cruzar la calle sea lo más peligroso de Georgia.
 
