@@ -5,7 +5,7 @@ date: 2019-11-09T19:42:35.040Z
 isPublished: false
 description: La leyenda de Mtskheta
 featuredpost: false
-featuredimage: /img/portada-web-navegante-del-caos.png
+featuredimage: /img/Georgia.png
 tags:
   - Georgia
   - Leyendas

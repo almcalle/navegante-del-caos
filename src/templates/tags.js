@@ -7,8 +7,7 @@ class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges;
     const postLinks = posts.map(
-      post =>
-        post.node.frontmatter.isPublished && (
+      post => (
               <div className="is-parent column is-6" key={post.id}>
                 <article
                   className={`blog-list-item tile is-child box notification ${
@@ -107,7 +106,6 @@ export const tagPageQuery = graphql`
             title
             featuredpost
             date(formatString: "DD/MM/YYYY")
-            isPublished
             featuredimage {
               childImageSharp {
                 fluid(maxWidth: 120, quality: 100) {

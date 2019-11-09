@@ -83,7 +83,6 @@ export default () => (
               }
               frontmatter {
                 title
-                isPublished
                 templateKey
                 date(formatString: "DD/MM/YYYY")
                 featuredpost

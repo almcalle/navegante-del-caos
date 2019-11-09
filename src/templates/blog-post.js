@@ -17,7 +17,8 @@ export const BlogPostTemplate = ({
   helmet,
   pageContext
 }) => {
-  const { slug, nexttitle, nextslug, prevtitle, prevslug } = pageContext;
+  console.log(pageContext);
+  const { slug, nextTitle, nextSlug, prevTitle, prevSlug } = pageContext;
 
   const PostContent = contentComponent || Content;
 
@@ -64,14 +65,14 @@ export const BlogPostTemplate = ({
               <p>{description}</p>
               <PostContent content={content} />
               <div style={{ marginTop: `4rem` }}>
-                {prevslug !== "/" && (
-                <a class="button" href={prevslug}>
-                  ← {prevtitle}
-                </a>
-                )}
-                  <a class="button" href={nextslug}>
-                    {nexttitle} →
+                {prevSlug.includes("/blog/") && (
+                  <a class="button" href={prevSlug}>
+                    ← {prevTitle}
                   </a>
+                )}
+                <a class="button" href={nextSlug}>
+                  {nextTitle} →
+                </a>
               </div>
               {tags && tags.length ? (
                 <div style={{ marginTop: `4rem` }}>
