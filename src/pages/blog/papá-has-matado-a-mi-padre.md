@@ -7,7 +7,7 @@ description: Hoy hace un año que murió mi padre por culpa del tabaco...
 featuredpost: false
 featuredimage: /img/portada-web-navegante-del-caos.png
 tags:
-  - NoTAG
+  - Perdida
 ---
 Papá, has matado a mi padre.
 
