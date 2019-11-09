@@ -14,8 +14,11 @@ export const BlogPostTemplate = ({
   tags,
   title,
   featuredimage,
-  helmet
+  helmet,
+  pageContext
 }) => {
+  const { slug, nexttitle, nextslug, prevtitle, prevslug } = pageContext;
+
   const PostContent = contentComponent || Content;
 
   let disqusConfig = {
@@ -60,6 +63,16 @@ export const BlogPostTemplate = ({
             <section className="section">
               <p>{description}</p>
               <PostContent content={content} />
+              <div style={{ marginTop: `4rem` }}>
+                {prevslug !== "/" && (
+                <a class="button" href={prevslug}>
+                  ← {prevtitle}
+                </a>
+                )}
+                  <a class="button" href={nextslug}>
+                    {nexttitle} →
+                  </a>
+              </div>
               {tags && tags.length ? (
                 <div style={{ marginTop: `4rem` }}>
                   <h4>Tags</h4>
@@ -95,12 +108,13 @@ BlogPostTemplate.propTypes = {
   helmet: PropTypes.object
 };
 
-const BlogPost = ({ data }) => {
+const BlogPost = ({ data, pageContext }) => {
   const { markdownRemark: post } = data;
 
   return (
     <Layout>
       <BlogPostTemplate
+        pageContext={pageContext}
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}

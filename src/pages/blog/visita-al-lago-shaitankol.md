@@ -12,6 +12,7 @@ featuredimage: /img/lago_Shaitankol.jpg
 tags:
   - Kazajistán
   - viajes
+  - Leyendas
 ---
 Si queréis saber cómo fue nuestra llegada haciendo autostop al parque natural haz click <a href="http://navegantedelcaos.com/blog/llegada-a-kazajistan/">aquí</a>
 
