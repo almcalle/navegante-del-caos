@@ -1,12 +1,24 @@
 ---
 templateKey: blog-post
-title: Lugares imprescindibles para visitar en Kazajistán
+title: Vino en georgia
 date: 2019-11-09T15:21:36.108Z
 isPublished: false
-description: ede
+description: Vino en georgia
 featuredpost: false
-featuredimage: /img/Amigo_Kazajo.jpg
+featuredimage: /img/Georgia.png
 tags:
-  - dede
+  - NoTAG
 ---
-ede
+El vino es uno de los principales productos y su producción es distinta a la del resto del mundo.
+
+
+
+Se prensan la uvas y luego se mete todo con la piel y las pepitas en ánforas de arcilla y se deja fermentar
+
+
+
+Con la fermentación la piel y las pepitas caen al fondo y se extrae el vino desde arriba
+
+
+
+Luego con los restos de piel y pepitas se extraen y se meten en un decantador, dónde va saliendo el alcohol concentrado al que llaman chacha
